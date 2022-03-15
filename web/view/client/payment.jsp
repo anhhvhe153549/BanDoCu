@@ -24,25 +24,25 @@
     <div class="container">
       <div class="row">
       	<div>
-      		<h1 style ="text-align: center; color: red;">Các hình thức thanh toán của Nông Sản 24h</h1>
-      		<p>Hiện tại đối với các đơn hàng đặt hàng trực tuyến trên website, <strong>Nông Sản 24h</strong> có những hình thức thanh toán như sau:</p>
+      		<h1 style ="text-align: center; color: red;">Các hình thức thanh toán của Web đồ cũ</h1>
+      		<p>Hiện tại đối với các đơn hàng đặt hàng trực tuyến trên website, <strong>Web đồ cũ</strong> có những hình thức thanh toán như sau:</p>
       		<strong>* Thanh toán tiền mặt: </strong>
-			<p>Sau khi nhận được đơn hàng trên website, bộ phận chăm sóc khách hàng của <strong>Nông Sản 24h</strong> sẽ liên hệ lại xác nhận đơn hàng với khách hàng,
+			<p>Sau khi nhận được đơn hàng trên website, bộ phận chăm sóc khách hàng của <strong>Web đồ cũ</strong> sẽ liên hệ lại xác nhận đơn hàng với khách hàng,
 			thông báo hình thức vận chuyển và phí vận chuyển. Khách hàng sẽ thanh toán bằng tiền mặt khi nhận được hàng và thanh toán trực tiếp với nhân viên giao hàng.
 			Hình thức thanh toán tiền mặt sẽ được áp dụng với tất cả các đơn hàng trên toàn quốc.</p>
 			<strong>* Thanh toán chuyển khoản ngân hàng và ví điện tử: </strong>
-			<p>Sau khi nhận được đơn hàng trên website, bộ phận chăm sóc khách hàng của <strong>Nông Sản 24h</strong> sẽ xác nhận đơn hàng với khách hàng,
+			<p>Sau khi nhận được đơn hàng trên website, bộ phận chăm sóc khách hàng của <strong>Web đồ cũ</strong> sẽ xác nhận đơn hàng với khách hàng,
 			thông báo hình thức vận chuyển và phí vận chuyển.</p>
 			<strong>1.Tài khoản ngân hàng Vietcombank: </strong>
 			<p style ="margin-left: 20px;">Tên: XXXXXXXXX<br>
-			Ngân hàng: Vietcombank chi nhánh XXX<br>
+			Ngân hàng: MBbank chi nhánh XXX<br>
 			Số tài khoản: XXXXXXXX</p>
 			<strong>2.Ví điện tử MOMO: </strong>
 			<p style ="margin-left: 20px;">Tên: XXXXXXXXX<br>
 			Số điện thoại: 0904974XXX</p>
 			<strong>3.Ví điện tử ZaloPay: </strong>
 			<p style ="margin-left: 20px;">Tên: XXXXXXXXX<br>
-			Số điện thoại: 0904974XXX</p>
+			Số điện thoại: 0948135XXX</p>
 			<i>Sau khi thanh toán, nếu gặp bất kì sự cố nào vui lòng liên hệ tới số Hotline 19001234</i><br><br>
       	</div>
       </div>
