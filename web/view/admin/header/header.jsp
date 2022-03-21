@@ -63,7 +63,7 @@
                     <div class="avatar"><img class="align-self-start mr-3" src="${pageContext.request.contextPath}/view/admin/assets/images/avatar-admin.png"
                         alt="user avatar"></div>
                     <div class="media-body">
-                      <h6 class="mt-2 user-title">Webnongsan</h6>
+                      <h6 class="mt-2 user-title">Webdocu</h6>
                 	<b> Admin:  <%=session.getAttribute("admin-username") %></b>                         
                     </div>
                   </div>
